@@ -9,3 +9,6 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 
 ## Editor de código a tiempo real :man_technologist:
     https://codi.link/%7C%7C
+    
+## Generador de Gitignore :comet: 
+    https://www.toptal.com/developers/gitignore
