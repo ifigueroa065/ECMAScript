@@ -13,5 +13,9 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ## Generador de Gitignore :comet: 
     https://www.toptal.com/developers/gitignore
 
-## Configuración 
-    npm init -y
+## Configuración :gear:
+    npm init -y 
+    npm install node-fetch
+
+## Platzi Fake Store API :green_heart:
+    https://fakeapi.platzi.com/
