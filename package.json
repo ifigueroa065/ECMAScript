@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ifigueroa065/ECMAScript/issues"
   },
-  "homepage": "https://github.com/ifigueroa065/ECMAScript#readme"
+  "homepage": "https://github.com/ifigueroa065/ECMAScript#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
