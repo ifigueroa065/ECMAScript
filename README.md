@@ -6,6 +6,7 @@
 
 JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, principalmente en el frontend. Cada año, ECMA International publica una nueva edición de ECMAScript, la especificación a la cual se ajusta JavaScript. Aprendí las nuevas características que implementa ECMAScript desde la versión ES6 hasta la versión ES13.
 
+    https://luis-ariza.notion.site/ECMAScript-Versiones-de-JavasCript-be6daa0ae0eb406f990238a07d677a5a
 
 ## Editor de código a tiempo real :man_technologist:
     https://codi.link/%7C%7C
