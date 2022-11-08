@@ -8,7 +8,7 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
     
     https://luis-ariza.notion.site/ECMAScript-Versiones-de-JavasCript-be6daa0ae0eb406f990238a07d677a5a
     
-## Closures y Scope :radioactive:
+# Closures y Scope :radioactive:
 
 Conceptos fundamentales de Scope global y local, cómo declarar variables con const, let y var. Con ejercicios prácticos domina el uso de Closures en tus desarrollos.
 
