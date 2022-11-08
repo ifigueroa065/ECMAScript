@@ -5,7 +5,9 @@
 
 
 JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, principalmente en el frontend. Cada año, ECMA International publica una nueva edición de ECMAScript, la especificación a la cual se ajusta JavaScript. Aprendí las nuevas características que implementa ECMAScript desde la versión ES6 hasta la versión ES13.
-
+    
+    https://luis-ariza.notion.site/ECMAScript-Versiones-de-JavasCript-be6daa0ae0eb406f990238a07d677a5a
+    
 ## Closures y Scope :radioactive:
 
 Conceptos fundamentales de Scope global y local, cómo declarar variables con const, let y var. Con ejercicios prácticos domina el uso de Closures en tus desarrollos.
@@ -15,8 +17,6 @@ Conceptos fundamentales de Scope global y local, cómo declarar variables con co
 * Aplicar estos conocimientos en mis proyectos.
 * Identificar el uso de Local Scope, Function Scope y Block Scope
 * Aprender qué es el Scope, Closures y Hoisting
-
-
 
 
 ## Editor de código a tiempo real :man_technologist:
