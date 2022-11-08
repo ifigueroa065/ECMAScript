@@ -1,4 +1,4 @@
-# ECMAScript6+  |  Closures y Scope :rocket:
+# ECMAScript  |  Closures y Scope :rocket:
 
 
 ## Historia y Versiones de JavaScript :radioactive:
