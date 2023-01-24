@@ -31,3 +31,5 @@ Conceptos fundamentales de Scope global y local, cómo declarar variables con co
 
 ## Platzi Fake Store API :green_heart:
     https://fakeapi.platzi.com/
+
+prueba
