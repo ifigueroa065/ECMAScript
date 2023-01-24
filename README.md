@@ -33,3 +33,4 @@ Conceptos fundamentales de Scope global y local, cómo declarar variables con co
     https://fakeapi.platzi.com/
 
 prueba
+asda
